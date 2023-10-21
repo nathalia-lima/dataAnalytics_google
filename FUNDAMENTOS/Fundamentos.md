@@ -36,8 +36,8 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 -> celulas, colunas e linhas
 
--> observação: linha, atributos contidos em uma linha da tabela
--> atributos: caracteristícas dos dados usada para rotular coluna
+-> observação: linha, atributos contidos em uma linha da tabela  
+-> atributos: caracteristícas dos dados usada para rotular coluna  
 
 
 ### SQL
@@ -46,16 +46,16 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 -> Solicitação de dados, estrutura:
 
-**SELECT** -> selecionar coluna (separadas por vírgulas)
-**FROM** -> nome tabela
+**SELECT** -> selecionar coluna (separadas por vírgulas)  
+**FROM** -> nome tabela  
 **WHERE** -> onde = alguma condição/filtro (ex: AND, OR, NOT)
 
 --------------------------------------------------------------------------------
 
--> Machine Learning 
+-> Machine Learning  
 - Automatização e tomar muitas decisões.
 
--> Estatística
+-> Estatística 
 - Para decisões que você tem incertezas.
 
 -> Análise 
@@ -108,11 +108,11 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 -> Qualidades e características associadas á resolução de problemas com o uso de fatos.
 
--> Curiosidade: procurar e ir atrás
--> Compreensão do contexto: agrupar elementos em categorias
--> Mentalidade técnica: dividir itens em etapas menores
--> Design de dados: forma de organizar os dados
--> Estratégia de dados: gerenciamento de processos e ferramentas usadas nas análises
+-> Curiosidade: procurar e ir atrás  
+-> Compreensão do contexto: agrupar elementos em categorias  
+-> Mentalidade técnica: dividir itens em etapas menores  
+-> Design de dados: forma de organizar os dados  
+-> Estratégia de dados: gerenciamento de processos e ferramentas usadas nas análises  
 
 --------------------------------------------------------------------------------
 
@@ -120,11 +120,11 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 -> Identificação e definição de um problema e em seguida a resolução usando dados de maneira organizada e passo a passo
 
--> Visualização: representação gráfica das informações
--> Estratégia: formas de se manter focado para alcançar os objetivos
--> Orientação para o problema: identificar, descrever e resolver problemas 
--> Correlação: relação entre os problemas, diferente de causalidade 
--> Pensamento geral e orientado para os detalhes: ver o problema/questão por inteiro no geral bem como os detalhes
+-> Visualização: representação gráfica das informações  
+-> Estratégia: formas de se manter focado para alcançar os objetivos  
+-> Orientação para o problema: identificar, descrever e resolver problemas   
+-> Correlação: relação entre os problemas, diferente de causalidade  
+-> Pensamento geral e orientado para os detalhes: ver o problema/questão por inteiro no geral bem como os detalhes  
 
 
 
@@ -154,14 +154,14 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 --------------------------------------------------------------------------------
 
 ### Issue = Questão
--> Tópico a ser investigado
--> Questão = Pergunta: projetada para descobrir informações
+-> Tópico a ser investigado  
+-> Questão = Pergunta: projetada para descobrir informações  
 
 ### Problem
--> obstáculo/complicação para ser resolvida
+-> obstáculo/complicação para ser resolvida  
 
 ### Business Task
--> Pergunta ou problema que a análise de dados responde para a empresa
+-> Pergunta ou problema que a análise de dados responde para a empresa  
 
 ### Imparcialidade
--> Garantir que sua análise não crie ou reforce vieses
+-> Garantir que sua análise não crie ou reforce vieses  
