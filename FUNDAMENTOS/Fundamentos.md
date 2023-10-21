@@ -120,24 +120,29 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 -> Identificação e definição de um problema e em seguida a resolução usando dados de maneira organizada e passo a passo
 
--> Visualização
--> Estratégia
--> Orientação para o problema
--> Correlação
--> Pensamento geral e orientado para os detalhes
+-> Visualização: representação gráfica das informações
+-> Estratégia: formas de se manter focado para alcançar os objetivos
+-> Orientação para o problema: identificar, descrever e resolver problemas 
+-> Correlação: relação entre os problemas, diferente de causalidade 
+-> Pensamento geral e orientado para os detalhes: ver o problema/questão por inteiro no geral bem como os detalhes
 
+
+
+
+### Perguntas que analistas fazem para buscar uma solução:
+
+#### Qual a causa raiz do problema?
 
 > Causa raiz: razão pela qual o problema ocorre
 >
 > Processo de cinco "por quês": perguntar "por quê?" cinco vezes para revelar a causa raiz , o último trará a revelação
 
-
-### Onde estão as lacunas em nosso processo?
+#### Onde estão as lacunas em nosso processo?
 
 -> Análise de lacunas: examinar e avaliar como um processo funciona no momento para chegar onde você quer no futuro
 
 
-### O que não consideramos antes:
+#### O que não consideramos antes:
 
 ->  Quais informações ou procedimentos podem estar faltando em um processo
 
