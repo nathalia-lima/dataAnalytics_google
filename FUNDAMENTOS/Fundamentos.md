@@ -26,7 +26,7 @@ Análise de dados -> coleta, transformação e organização de dados para orien
 
 > Consiste basicamente em dividir o projeto em tarefas menores, em torno dessas etapas, além da limpeza , para que estejam corretos e sem erros e outliers (dados discrepantes).
 
-> **Ferramentas mais comuns utilizadas por analistas:
+> **Ferramentas mais comuns utilizadas por analistas:**
 >
 > - Planilhas: excel, google sheets
 > - Linguagens de consulta: SQL (linguagem de consulta estruturada)
