@@ -122,7 +122,7 @@ Os analistas usam dados para encontrar padrões usando históricos, a fim de ent
 **M**easurable - mensuráveis 
 > podem ser quantificadas e avaliadas
 
-**A**action-oriented - orientadas para ação  
+**A**ction-oriented - orientadas para ação  
 > incentivam mudanças  
 
 **R**elevant - relevante  
