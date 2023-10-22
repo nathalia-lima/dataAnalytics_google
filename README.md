@@ -4,7 +4,7 @@ Documentação pessoal referente ao curso de Google Data Analytics
 
 # Google Learning Program - Google Data Analytics
 
-Certificação Profissional – 8 séries de cursos
+Certificação Profissional – 8 séries de cursos 
 
 Prepare-se para uma nova carreira na área de análise de dados, sem necessidade de experiência ou graduação. Receba treinamento profissional desenvolvido pelo Google e tenha a oportunidade de se conectar com os melhores empregadores. 
 
@@ -13,7 +13,6 @@ Análise de dados é a coleta, transformação e organização de dados para tir
 Ao longo de oito cursos, você desenvolverá as habilidades necessárias para conquistar um trabalho de início de carreira na área. Você aprenderá com funcionários do Google que melhoraram as próprias carreiras com a base em análise de dados que tinham. O certificado pode ser concluído em menos de seis meses, com menos de 10 horas por semana.
 
 Você se preparará para trabalhos como: analista de dados júnior ou associado, administrador de banco de dados e muito mais. Após a conclusão do certificado, você estará apto a se candidatar a vagas no mercado de trabalho.
-
 
 
 ### Projeto de Aprendizagem Aplicada
