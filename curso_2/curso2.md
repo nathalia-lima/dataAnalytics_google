@@ -126,9 +126,101 @@ Os analistas usam dados para encontrar padrões usando históricos, a fim de ent
 > incentivam mudanças  
 
 **R**elevant - relevante  
-> questões que importam e tÊm significado para o problema que você está tentando resolver  
+> questões que importam e têm significado para o problema que você está tentando resolver  
 
 **T**ime-bound - prazo determinado  
 > especificam o limite de tempo
 
 ------------------------------------------------------------------------------------------
+
+> Tomada de decisão inspirada em dados: Explora diferentes fontes de dados para identificar o que há em comum.
+
+### Tipos de dados  
+
+**Quantitativo:** medidas específicas e objetivas de fatos numéricos.
+- Que? Quantos? e Quantas vezes?
+
+**Qualitativos:** medidas subejtivas e explicativas de qualidades e características, ou de coisas que não podem ser medidas com dados numéricos.
+- Por quê?
+
+------------------------------------------------------------------------------------------
+
+### Visualizar e compartilhar  
+
+**Relatórios (Reports):** coleção estática de dados fornecida periodicamente ás partes interessadas.  
+- Dados instantÂneos
+- Rápidos de projetar
+- Não são dinâmicos ou automáticos
+
+**Painéis (Dashboards):** monitora dados recebidos em tempo real  
+- Mais pessoas tem acesso
+- Dinâmcio, automático e interativo
+- Levam bastante tempo para serem projetados
+
+> Tabela dinâmica (Pivot table): É uma ferramenta de resumo de dados, usada no processamento de dados
+
+------------------------------------------------------------------------------------------  
+
+- Métricas: tipo quantificável e isolado de dados que pode ser usado na avaliação.
+
+- Meta de métrica: meta mensurável definida por uma empresa e é avaliada com o uso de métricas
+
+-------------------------------------------------------------------------------------------
+
+### Lógica Matemática
+
+Analisar um problema e em um passo de cada vez, segmentá-lo em partes menores.
+
+Small Data: 
+- Métricas específicas
+- Periodo curto de tempo
+- Decisões do cotidiano
+
+Big Data:
+- Conjunto de dados maiores e menos específicos
+- Maior período
+- Questões de garnde escala e grandes decisões
+
+-------------------------------------------------------------------------------------------
+
+### Planilhas 
+
+Erros
+
+![Alt text](image.png)
+
+**Função:** comando predefinido que executa automaticamente um processo ou tarefa específica usando os dados.
+
+> “Se eu tivesse uma hora para salvar o planeta, gastaria 59 minutos definindo o problema e um minuto resolvendo-o” Albert Einstein
+
+**Domínio do problema:** Problem Domain: área específica de análise que abrange todas as atividades que afetam ou são afetadas pelo problema.
+
+-------------------------------------------------------------------------------------------
+
+### Pensamento Estruturado
+
+**Escopo de trabalho:** Scope of Work (SOW) é um esboço combinado do trabalho que você vai realizar em um projeto. como analista de dados, seu escopo de trabalho será um pouco mais técnico, coisas como preparação de dados, validação, análise de conjuntos de dados quantitativos e qualitativos, resultados iniciais, e talvez até mesmo alguns recursos visuais para realmente transmitir o ponto.
+
+> Uma declaração de trabalho é um documento que identifica claramente os produtos e serviços que um fornecedor ou contratado fornecerá a uma organização. Inclui objetivos, diretrizes, resultados, cronograma e custos.
+>
+>Um escopo de trabalho é baseado em projeto e define as expectativas e limites de um projeto. Um escopo de trabalho pode ser incluído em uma declaração de trabalho para ajudar a definir os resultados do projeto.
+
+-------------------------------------------------------------------------------------------
+
+Contexto é importante na análise de dados porque ajuda a filtrar grandes quantidades de dados desorganizados e transformá-los em algo significativo. Na verdade, os dados têm pouco valor se não estiverem emparelhados com o contexto.
+
+------------------------------------------------------------------------------
+
+### Comunicação com a equipe
+
+Importante garantir que seu trabalho esteja alinhado às necessidades delas e é por isso que você precisa se comunicar efetivamente com todas as partes interessadas (Stakeholders) em toda a sua equipe.
+
+- Pensar em quem você quer comunicar e quando.
+
+**Público Alvo**
+Responda sempre estas quatro perguntas importantes sobre o público-alvo:
+
+- Quem é seu público-alvo?
+- O que o seu público-alvo já sabe?
+- O que o seu público-alvo precisa saber?
+- Qual é a melhor forma de comunicar o que o seu público-alvo precisa saber?
