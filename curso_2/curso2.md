@@ -202,7 +202,7 @@ Erros
 **Escopo de trabalho:** Scope of Work (SOW) é um esboço combinado do trabalho que você vai realizar em um projeto. como analista de dados, seu escopo de trabalho será um pouco mais técnico, coisas como preparação de dados, validação, análise de conjuntos de dados quantitativos e qualitativos, resultados iniciais, e talvez até mesmo alguns recursos visuais para realmente transmitir o ponto.
 
 > Uma declaração de trabalho é um documento que identifica claramente os produtos e serviços que um fornecedor ou contratado fornecerá a uma organização. Inclui objetivos, diretrizes, resultados, cronograma e custos.
->
+> 
 >Um escopo de trabalho é baseado em projeto e define as expectativas e limites de um projeto. Um escopo de trabalho pode ser incluído em uma declaração de trabalho para ajudar a definir os resultados do projeto.
 
 -------------------------------------------------------------------------------------------
